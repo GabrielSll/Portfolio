@@ -43,13 +43,19 @@
     }
 }
 
+@media (max-width: 400px) {
+    .header-menu a {
+        font-size: 11px;
+    }
+}
+
 @media (max-width: 430px) {
     .header-menu a {
         font-size: 15px;
     }
 }
 
-@media (max-width: 360px) {
+@media (max-width: 400px) {
     .header-menu a {
         font-size: 11px;
     }
