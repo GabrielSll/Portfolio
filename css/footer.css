@@ -31,15 +31,6 @@
     color: #fff;
 }
 
-.footer-contato a:hover {
-    border: 1px solid #fff;
-    border-radius: 4px;
-    background-color: #fff;
-    color: #000;
-    padding: 8px;
-    transition: 1s;
-}
-
 .footer-copy {
     font-size: 1.125rem;
     color: #8f8f8f;
