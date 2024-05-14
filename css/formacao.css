@@ -91,10 +91,13 @@
 .cursos li a {
     text-decoration: none;
     color: #fff;
+    border: 1px solid #141414;
+    padding: 5px;
 }
 
 .cursos li a:hover {
     border: 1px solid #a3a3a3;
+    font-size: 1.125rem;
     border-radius: 4px;
     color: #141414;
     background-color: #fff;
