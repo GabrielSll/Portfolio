@@ -88,6 +88,23 @@
     margin-bottom: 60px;
 }
 
+.cursos li a {
+    text-decoration: none;
+    color: #fff;
+    border: 1px solid #141414;
+    padding: 7px;
+}
+
+.cursos li a:hover {
+    border: 1px solid #a3a3a3;
+    font-size: 1.125rem;
+    border-radius: 4px;
+    color: #141414;
+    background-color: #fff;
+    padding: 7px;
+    transition: 0.3s;
+}
+
 .formacao-extra h3 {
     font-size: 0.875rem;
     line-height: 1.4;
