@@ -8,10 +8,10 @@ Projeto do meu portfólio
 
 ## Fotos Ilustrativas
 
-<img src = "screenshots/foto-1.jpg">
-<img src = "screenshots/foto-2.jpg">
-<img src = "screenshots/foto-3.jpg">
-<img src = "screenshots/foto-4.jpg">
+<img src = "img/screenshots/foto-1.jpg">
+<img src = "img/screenshots/foto-2.jpg">
+<img src = "img/screenshots/foto-3.jpg">
+<img src = "img/screenshots/foto-4.jpg">
 
 
 ## Tecnologias e Dependências
